@@ -2,4 +2,4 @@
 Fork me!
 
 # About me
-Add a quick description of yourself down here. No using the Git website! You have to do it from within PyCharm.
+Allison Ziegler: A freshman computer science major at UD from Hockessin, DE who writes, sings, plays video games, and generally just exists as a nerd full-time.
